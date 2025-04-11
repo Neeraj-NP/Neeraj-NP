@@ -8,8 +8,8 @@
 - 🎓 1st-year student at **Sitare University**
 - 💻 Passionate about **Web Development** and **UI/UX Design**
 - 🧠 Currently diving into **Flask**, **MongoDB**, and **Three.js**
-- 💊 Working on a **Medicine Analyzer Project**
-- ✨ Solitude | Quiet soul | Focused fire 🔥
+- 💊 Working on a **Book A Star Project**
+- ✨ Want to explore 
 
 ---
 
@@ -48,11 +48,11 @@
 
 | Project Name                | Description |
 |----------------------------|-------------|
-| 🎓 Portfolio Website *(soon)* | A 3D interactive room to explore Bocchi’s dev skills |
-| 🌟 Book A Star              | On development |
-| 💊 Stack Overflow Data Analyzer | An app to suggest medicines based on composition |
-| 🧪 Medsphere                | Hackathon Project |
-| 🏛️ ACM Website              | Hackathon Project |
+| 🎓 Portfolio Website  | To show my projects |
+| 🌟 Book A Star              | currently on working |
+| 💊 Stack Overflow Data Analyzer | DHP Assignment |
+| 🧪 SU Study Room                | PYQ Papers for students |
+| 🏛️ Coding Club Website            | for club |
 
 ---
 
