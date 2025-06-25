@@ -5,7 +5,6 @@
 
 ## 🌟 About Me
 
-- 🎓 1st-year student at **Sitare University**
 - 💻 Passionate about **Web Development** and **UI/UX Design**
 - 🧠 Currently diving into **Flask** and **Three.js**
 - 💊 Working on a **Book A Star Project**
