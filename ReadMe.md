@@ -36,6 +36,8 @@
 | 💊 Stack Overflow Data Analyzer | DHP Assignment |
 | 🧪 SU Study Room                | PYQ Papers for students |
 | 🏛️ Coding Club Website            | for club |
+| 🏛️ Room Finder            | Finding rooms in your budget |
+
 
 ---
 
