@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Neer 👋</h1>
+<h1 align="center">Hey, I'm Neeraj 👋</h1>
 <p align="center">🌌 Dreaming in code, building in silence.</p>
 
 ---
